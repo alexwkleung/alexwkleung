@@ -11,4 +11,4 @@ I'm a software developer that does open-source as a side hobby.
 
 You can reach me at alexleung25@outlook.com for any professional contact or opportunities.
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/alex-leung-a80bb7293/).
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/alexwkleung/).
